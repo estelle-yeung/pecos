@@ -1,0 +1,9 @@
+Direction,Angle Range (degrees),Count
+North,347.5-32.5,15
+Northeast,32.5-77.5,23
+East,77.5-122.5,22
+Southeast,122.5-167.5,43
+South,167.5-212.5,43
+Southwest,212.5-257.5,7
+West,257.5-302.5,9
+Northwest,302.5-347.5,22
